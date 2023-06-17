@@ -1,20 +1,15 @@
-<p align="center">
-  <a href="https://gitpod.io/#https://github.com/Heriels-Sun/daAuction" target="_blank">
-    <img src="https://gitpod.io/button/open-in-gitpod.svg" width="240" alt="Gitpod">
-  </a>
-</p>
 
 <!-- Description starts here -->
 
-A Dutch auction is one of several types of auctions for buying or selling goods.
+A smart contract for on-demand auction of the most sought-after products on the network using the benefits of the blockchain to implement auction modalities such as Candle Auction, Dutch Auction and Sealed-bid auction.
 
 <!-- End of description -->
 
-## Prebuilt Binaries
-
-Raw, optimized, and meta WASM binaries can be found in the [Releases section](https://github.com/gear-dapps/dutch-auction/releases).
-
 ## Building Locally
+
+You can build locally every smart contracts in this branch, also, you can try the Front-End.
+
+> Note: This works with every smart contract 
 
 ### ⚙️ Install Rust
 
@@ -70,7 +65,3 @@ make all
 ```shell
 make
 ```
-
-## License
-
-The source code is licensed under the [MIT license](LICENSE).
