@@ -1,29 +1,8 @@
 <p align="center">
-  <a href="https://gitpod.io/#https://github.com/Heriels-Sun/daAuction/tree/main/seal-bid-auction" target="_blank">
-    <img src="https://gitpod.io/button/open-in-gitpod.svg" width="240" alt="Gitpod">
-  </a>
-  <a href="https://gitpod.io/#https://github.com/gear-dapps/dutch-auction" target="_blank">
-    <img src="https://gitpod.io/button/open-in-gitpod.svg" width="240" alt="Gitpod">
-  </a>
-  <a href="https://gitpod.io/#https://github.com/gear-dapps/dutch-auction" target="_blank">
+  <a href="https://gitpod.io/#https://github.com/Heriels-Sun/daAuction" target="_blank">
     <img src="https://gitpod.io/button/open-in-gitpod.svg" width="240" alt="Gitpod">
   </a>
 </p>
-
-# Dutch auction
-
-[![Build][build_badge]][build_href]
-[![License][lic_badge]][lic_href]
-[![Docs][docs_badge]][docs_href]
-
-[build_badge]: https://github.com/gear-dapps/dutch-auction/workflows/Build/badge.svg
-[build_href]: https://github.com/gear-dapps/dutch-auction/actions/workflows/build.yml
-
-[lic_badge]: https://img.shields.io/badge/License-MIT-success
-[lic_href]: https://github.com/gear-dapps/dutch-auction/blob/master/LICENSE
-
-[docs_badge]: https://img.shields.io/badge/Docs-online-5023dd
-[docs_href]: https://dapp.rs/dutch-auction
 
 <!-- Description starts here -->
 
