@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Heriels-Sun/daAuction/tree/main/seal-bid-auction" target="_blank">
+  <a href="https://gitpod.io/#https://github.com/Heriels-Sun/daAuction/tree/main/seal-bid-auction" target="_blank">
     <img src="https://gitpod.io/button/open-in-gitpod.svg" width="240" alt="Gitpod">
   </a>
   <a href="https://gitpod.io/#https://github.com/gear-dapps/dutch-auction" target="_blank">
